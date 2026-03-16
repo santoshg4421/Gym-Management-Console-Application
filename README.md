@@ -134,7 +134,3 @@ g++ -std=c++17 -I src src/main.cpp src/models/User.cpp src/models/Member.cpp src
 - Persist richer workout item details
 - Unit tests for service layer
 - Optional DB-backed storage migration
-
-## Author
-
-Gym Management Application Team
