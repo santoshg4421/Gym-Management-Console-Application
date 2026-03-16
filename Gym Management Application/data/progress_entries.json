@@ -1,0 +1,13 @@
+[
+  {"memberId":1,"date":"2026-03-10","weight":72,"bmi":23.51,"achievement":"strength_up"},
+  {"memberId":1,"date":"2026-03-12","weight":71.5,"bmi":23.35,"achievement":"fat_loss"},
+  {"memberId":2,"date":"2026-03-11","weight":58,"bmi":22.1,"achievement":"consistency"},
+  {"memberId":1,"date":"2026-03-16","weight":73,"bmi":23.8367,"achievement":"strength"},
+  {"memberId":4,"date":"2026-03-20","weight":57,"bmi":15.7895,"achievement":"increased"},
+  {"memberId":1,"date":"2026-03-15","weight":79.5,"bmi":24.0007,"achievement":"Good progress this month"},
+  {"memberId":2,"date":"2026-03-15","weight":57,"bmi":21.4536,"achievement":"Steady routine and discipline"},
+  {"memberId":3,"date":"2026-03-15","weight":61.5,"bmi":21.0321,"achievement":"Gained strength and confidence"},
+  {"memberId":4,"date":"2026-03-15","weight":77.5,"bmi":21.9273,"achievement":"Excellent gym attendance this week"},
+  {"memberId":3,"date":"12-03-2026","weight":50,"bmi":17.0993,"achievement":"lost 3 kg"},
+  {"memberId":5,"date":"15-03-26","weight":84,"bmi":25.0829,"achievement":"increased strength"}
+]

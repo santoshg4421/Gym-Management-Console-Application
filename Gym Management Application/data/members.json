@@ -1,0 +1,7 @@
+[
+  {"memberId":1,"username":"member1","name":"Ram Kumar","age":21,"gender":"male","height":182,"weight":79.5,"membershipType":"quarterly","startDate":"2026-03-15","expiryDate":"2026-06-15"},
+  {"memberId":2,"username":"member2","name":"Anita Sharma","age":28,"gender":"female","height":163,"weight":57,"membershipType":"monthly","startDate":"2026-03-15","expiryDate":"2026-04-15"},
+  {"memberId":3,"username":"san","name":"Santosh Reddy","age":21,"gender":"male","height":171,"weight":50,"membershipType":"annual","startDate":"2026-03-15","expiryDate":"2027-03-15"},
+  {"memberId":4,"username":"sunil","name":"Sunil Kumar","age":20,"gender":"male","height":188,"weight":77.5,"membershipType":"quarterly","startDate":"2026-03-15","expiryDate":"2026-06-15"},
+  {"memberId":5,"username":"santosh","name":"santosh G","age":22,"gender":"male","height":183,"weight":84,"membershipType":"annual","startDate":"2026-03-15","expiryDate":"2027-03-15"}
+]

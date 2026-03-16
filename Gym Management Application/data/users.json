@@ -1,0 +1,12 @@
+[
+  {"userId":1,"username":"admin","password":"admin123","role":"admin"},
+  {"userId":2,"username":"trainer1","password":"trainer123","role":"trainer"},
+  {"userId":3,"username":"member1","password":"member123","role":"member"},
+  {"userId":4,"username":"member2","password":"member123","role":"member"},
+  {"userId":5,"username":"san","password":"123","role":"member"},
+  {"userId":6,"username":"trainer2","password":"123","role":"trainer"},
+  {"userId":7,"username":"sunil","password":"123","role":"member"},
+  {"userId":8,"username":"trainer_test","password":"1234","role":"trainer"},
+  {"userId":9,"username":"santosh","password":"12345","role":"member"},
+  {"userId":10,"username":"admin2","password":"admin123","role":"admin"}
+]
